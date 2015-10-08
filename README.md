@@ -1,1 +1,24 @@
-# js-coding-style
+# Js coding style
+
+- Semicolons: no
+- Indentation
+  - 2 spaces
+  - no tabs
+- Naming
+  - camelCase
+  - lower case first for variables
+  - upper case first for classes
+  - avoid plurals
+- Whitespace
+  - in front of ( for anything other than a function call
+  - around operators  
+  - after ,: (if there is no newline)
+- Quotes
+  - prefer ' over "
+  - avoid when possible
+- Blocks
+  - opening braces go on the same line
+  - do not use braces with one-line blocks
+- Multiline require() header
+  - newline after var
+  - each require() on the new line, indented, separated by comma
