@@ -19,6 +19,3 @@
 - Blocks
   - opening braces go on the same line
   - do not use braces with one-line blocks
-- Multiline require() header
-  - newline after var
-  - each require() on the new line, indented, separated by comma
